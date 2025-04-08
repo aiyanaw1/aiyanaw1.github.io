@@ -1,2 +1,2 @@
 # aiyanaw1.github.io
-GitHub page
+Howard MS Data Science Student 
