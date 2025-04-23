@@ -1,8 +1,11 @@
 # Aiyana Wright: Data Science Portfolio 
 Howard MS Data Science Student 
 ## Contact 
-[email] (yanadwrigt@gmail.com) | [LinkedIn] (https://www.linkedin.com/in/aiyanawright/)
-View my CV: [2025 CV Aiyana Wright] (2025_Digital_Resume.html) 
+<p>
+  📧 <a href="mailto:yanadwrigt@gmail.com">yanadwrigt@gmail.com</a><br>
+  🔗 <a href="https://www.linkedin.com/in/aiyanawright/" target="_blank">LinkedIn</a><br>
+  📄 <a href="2025_Digital_Resume.html" target="_blank">View My CV</a>
+</p>
 
 ## Featured Projects: 
 
