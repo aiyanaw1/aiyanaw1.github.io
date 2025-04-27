@@ -1081,6 +1081,14 @@ plt.show()
 
 ## Conclusion 
 
-This analysis provides compelling evidence that out-of-pocket healthcare expenses are closely tied to potential financial stress among individuals. By leveraging premium costs and additional variables as proxy indicators for financial hardship, we identified a subgroup of respondents likely experiencing financial hardship due to medical costs. 
+This analysis provides strong evidence that out-of-pocket healthcare expenses are closely linked to financial stress among individuals. By using premium costs and other key variables as proxy indicators of financial hardship, we identified a subgroup of respondents likely facing economic strain due to medical costs.
 
-The data shows that individuals with higher out-of pocket premiums, limited or no insurance coverage, and unemployment status, are more likely to exhibit signs of financial stress- facing higher premium burdens. 
+The data shows that individuals with higher out-of-pocket premiums, limited or no insurance coverage, and unemployment are more likely to experience financial stress, bearing a greater premium burden. To deepen this analysis, I will overlay income and poverty status to better understand how high premium costs relate to financial strain, and examine whether individuals paying more than $1,000 a month are disproportionately likely to report financial hardship.
+
+Understanding the broader historical context of healthcare access helps frame these findings. The introduction of Medicare and Medicaid in 1965, under President Lyndon B. Johnson’s Social Security Act, marked the first major step toward providing healthcare to low-income individuals who could not afford private insurance. Subsequent research, such as Feinstein’s 1993 review, *The Relationship Between Socioeconomic Status and Health*, highlighted the profound health disparities experienced by vulnerable populations. As Feinstein noted, “The continued existence of health inequities violates many individuals' sense of social equity and poses important challenges to policymakers."
+
+Further expansions followed with the introduction of the Children's Health Insurance Program (CHIP) in 1997, providing coverage for children in families whose incomes were too high for Medicaid but insufficient for private insurance. In 2010, the Affordable Care Act, signed by President Barack Obama, expanded Medicaid eligibility and introduced subsidies to help individuals purchase insurance through health marketplaces. According to the Center on Budget and Policy Priorities, this effort led to a historic drop in the uninsured population—from 45.2 million in 2013 to 26.4 million in 2022—underscoring the critical role of affordable coverage.
+
+However, challenges remain. On February 14, the Trump Administration cut funding for the Affordable Care Act by 90%, a move the Center for Medicare Advocacy warned would create additional barriers to care, particularly for communities already facing systemic health inequities (Lipschitz, 2025).
+
+Moving forward, overlaying income and poverty data will be crucial for further clarifying the relationship between high healthcare costs and financial hardship, helping to inform policy discussions and interventions aimed at reducing health inequities.
