@@ -20,7 +20,7 @@ An analysis exploring the impact of out-of-pocket and surprise medical expenses 
 
 📄 [View the Markdown analysis on GitHub](https://github.com/aiyanaw1/aiyanaw1.github.io/blob/892534b9c4d79c9f398a0078a7bc0173df799aec/Final.md)
 
-### 🩺 Machine Learning: Medical Cost Analysis - Risk Profiles (2025)
+### 📊 Machine Learning: Medical Cost Analysis - Risk Profiles (2025)
 
 The analysis aims to identify which factors most significantly influence out-of-pocket medical expenses amongst individuals utilzing the SHED 2023 data set. 
 
