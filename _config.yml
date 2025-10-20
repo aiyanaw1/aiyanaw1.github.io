@@ -1,0 +1,111 @@
+title: "Aiyana Wright"
+description: "Data science • BI • Visual storytelling"
+url: "https://aiyanaw1.github.io"
+theme: null
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+# Minimal Mistakes settings
+minimal_mistakes_skin: "default"  # try "air", "contrast", "plum", "mint"
+logo: /assets/img/logo.png
+favicon: /assets/img/favicon.png
+
+# Author & social
+author:
+  name: "Aiyana Wright"
+  avatar: "/assets/img/headshot.jpg"
+  bio: "Business Intelligence PM • M.S. Applied Data Science • Clemson Advancement"
+  location: "USA"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/aiyanawright"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/aiyanaw1"
+    - label: "Tableau"
+      icon: "fas fa-chart-bar"
+      url: "https://public.tableau.com/app/profile/<your-handle>"
+
+# Navigation
+nav:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects/
+  - title: "Writing"
+    url: /posts/
+  - title: "About"
+    url: /about/
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+paginate: 6
+paginate_path: "/page:num/"
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+
+---
+layout: home
+author_profile: true
+title: "Data • Insight • Impact"
+excerpt: "Portfolio of analytics, dashboards, and storytelling"
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.35"
+  overlay_image: /assets/img/hero.jpg   # add this image
+  actions:
+    - label: "View Projects"
+      url: "/projects/"
+    - label: "Download Resume"
+      url: "/assets/Aiyana_Wright_Resume.pdf"
+feature_row:
+  - image_path: /assets/img/feat1.png
+    alt: "Healthcare modeling"
+    title: "Insurance Status Modeling (MEPS 2023)"
+    url: /projects/meps-insurance/
+    btn_label: "Explore"
+  - image_path: /assets/img/feat2.png
+    alt: "HBCU endowment"
+    title: "HBCU Endowments: Disparities & Trends"
+    url: /projects/hbcu-endowments/
+    btn_label: "Explore"
+  - image_path: /assets/img/feat3.png
+    alt: "BI workflows"
+    title: "Wrike → Invoice → ROI Dashboard"
+    url: /projects/wrike-roi/
+    btn_label: "Explore"
+---
+{% include feature_row %}
+
+
+---
+layout: collection
+title: "Projects"
+collection: projects
+entries_layout: grid
+classes: wide
+---
+
+---
+title: "Insurance Status Modeling (MEPS 2023)"
+date: 2025-10-01
+header:
+  teaser: /assets/img/meps-teaser.png
+tags: [python, stats, classification, policy]
+---
+**Goal:** Predict private/public/uninsured; explain drivers with interpretable models.
+
+- Models: Multinomial logistic, Random Forest, SHAP
+- Key features: AGE23X, FAMINC23, EDUCYR, RACETHX, INSCOV23
+- Outputs: Confusion matrix, feature importances, equity lens
+
+[GitHub Repo](https://github.com/aiyanaw1/...) · [Tableau Story](https://public.tableau.com/...)
+
+
