@@ -26,7 +26,7 @@ Hi! I'm **Aiyana Wright**, a data-driven project manager and applied data scienc
 Currently, I manage projects for **Clemson University’s Advancement Division**, where I implement tools like **Wrike**, **Smartsheet**, and **Adobe Workfront** to streamline operations and measure impact.  
 
 
-I specialize in connecting **quantitative analysis** with **strategic storytelling**—from modeling healthcare inequities to visualizing philanthropic outcomes—bridging data, design, and decision-making.
+I specialize in connecting **quantitative analysis** with **strategic storytelling**;from modeling healthcare inequities to visualizing philanthropic outcomes—bridging data, design, and decision-making.
 
 ---
 
