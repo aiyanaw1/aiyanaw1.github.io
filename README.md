@@ -1,5 +1,5 @@
 <p align="center">
- <img src="IMG_47EC5B2ED5D7-1.jpg" alt="Aiyana Wright banner" width="100%">
+ <img src="IMG_47EC5B2ED5D7-1.jpg" alt="Aiyana Wright banner" width="75%">
 
 </p>
 
