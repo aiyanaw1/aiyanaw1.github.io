@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/IMG_47EC5B2ED5D7-1.jpg" alt="Aiyana Wright headshot" width="160" style="border-radius:50%">
+  <img src="[assets/IMG_47EC5B2ED5D7-1.jpg](https://github.com/aiyanaw1/aiyanaw1.github.io/blob/43a796111ac4ef0b5d6fc3cab62c34ed4aaff6d0/IMG_47EC5B2ED5D7-1.jpg)" alt="Aiyana Wright headshot" width="160" style="border-radius:50%">
 </p>
 
 <h1 align="center">Aiyana Wright</h1>
