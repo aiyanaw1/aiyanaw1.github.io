@@ -1,28 +1,4 @@
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Playfair+Display:wght@600&display=swap" rel="stylesheet">
 
-<style>
-  body {
-    font-family: 'Inter', sans-serif;
-    color: #1f2937; /* slate-800 */
-    background-color: #ffffff;
-  }
-  h1, h2, h3 {
-    font-family: 'Playfair Display', serif;
-    color: #111827;
-  }
-  a {
-    color: #7c3aed; /* violet-600 accent */
-    text-decoration: none;
-  }
-  a:hover {
-    text-decoration: underline;
-  }
-  hr {
-    border: none;
-    height: 1px;
-    background: #e5e7eb;
-  }
-</style>
 
 
 <div align="center" style="max-width:700px;margin:auto;">
@@ -84,16 +60,4 @@ Data-driven exploration commissioned by ACLS examining the financial inequities 
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Wrike-0073E6?style=flat&logo=wrike&logoColor=white"/>
-</p>
-
-<p align="center">
-  <em>© 2025 Aiyana Wright • Built with ❤️ using GitHub Pages</em>
-</p>
----
 
