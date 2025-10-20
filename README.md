@@ -56,7 +56,7 @@ Data-driven exploration commissioned by ACLS examining the financial inequities 
 
 📧 [yanadwrigt@gmail.com](mailto:yanadwrigt@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/aiyanawright/)  
-📄 [View My CV](ADW RESUME.pdf)
+📄 [View My CV](https://github.com/aiyanaw1/aiyanaw1.github.io/blob/131c07e82c873b6c3a4b1e4ed6fa674580b91ca7/ADW%20RESUME.pdf)
 
 ---
 
