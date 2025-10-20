@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="assets/img/headshot.jpg" alt="Aiyana Wright headshot" width="160" style="border-radius:50%">
+  <img src="IMG_47EC5B2ED5D7-1.jpg" alt="Aiyana Wright headshot" width="160" style="border-radius:50%">
 </p>
 
 <h1 align="center">Aiyana Wright</h1>
