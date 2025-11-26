@@ -49,7 +49,7 @@ Identifies which factors most significantly influence out-of-pocket medical expe
 ### 💻 Endowment Disparities & HBCU Case Study (2025)
 Data-driven exploration commissioned by ACLS examining the financial inequities and revenue shares between HBCUs and selected PWIs.
 
-[📊 Tableau Dashboard (coming soon)](https://public.tableau.com/app/profile/aiyanaw1)
+[📊 Tableau Dashboard (coming soon)](https://public.tableau.com/app/profile/aiyana.wright3986)
 
 ---
 ## 📬 Contact
