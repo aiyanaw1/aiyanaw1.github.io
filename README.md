@@ -58,6 +58,15 @@ Data-driven exploration commissioned by ACLS examining the financial inequities 
 🔗 [LinkedIn](https://www.linkedin.com/in/aiyanawright/)  
 📄 [View My CV](https://github.com/aiyanaw1/aiyanaw1.github.io/blob/131c07e82c873b6c3a4b1e4ed6fa674580b91ca7/ADW%20RESUME.pdf)
 
+<a href="ADW RESUME.pdf" download 
+   style="background-color:#4B0082; 
+          padding:10px 18px; 
+          color:white; 
+          border-radius:6px; 
+          text-decoration:none;">
+  Download My Resume (PDF)
+</a>
+
 ---
 
 
