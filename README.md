@@ -42,9 +42,11 @@ Data-driven exploration commissioned by ACLS examining endowment inequities betw
 
 👉 [Tableau Dashboard](https://public.tableau.com/app/profile/aiyana.wright3986)
 
+---
 ## 📊 Machine Learning: Capstone Health Insurance Prediction Model (2025) 
-PCA based risk scoring and machine-learning predictions for U.S Adults 
-👉 [Tableau Dashboard (https://public.tableau.com/shared/RMN6CKQKX?:display_count=n&:origin=viz_share_link)
+PCA based risk scoring and machine-learning predictions for U.S Adults. 
+
+👉 [Tableau Dashboard] (https://public.tableau.com/shared/RMN6CKQKX?:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -52,8 +54,6 @@ PCA based risk scoring and machine-learning predictions for U.S Adults
 
 📧 Email: [yanadwrigt@gmail.com](mailto:yanadwrigt@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/aiyanawright](https://www.linkedin.com/in/aiyanawright/)  
-📄 **[View My CV](ADW%20RESUME.pdf)**  
-
 <br>
 
 <a href="ADW%20RESUME.pdf" download
@@ -61,7 +61,6 @@ PCA based risk scoring and machine-learning predictions for U.S Adults
           color:white; border-radius:6px; text-decoration:none;">
   Download My Resume (PDF)
 </a>
-
 
 </html>
 
