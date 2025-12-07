@@ -69,4 +69,21 @@ Data-driven exploration commissioned by ACLS examining the financial inequities 
 
 ---
 
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Aiyana Wright</title>
+</head>
+<body style="font-family:Arial; max-width:800px; margin:auto; padding:40px;">
+  <h1>Welcome to My Portfolio</h1>
+  <p>You can download my resume below:</p>
+
+  <a href="ADW RESUME.pdf" download
+     style="background:#4B0082; padding:12px 24px; color:white;
+            border-radius:6px; text-decoration:none;">
+    Download Resume (PDF)
+  </a>
+</body>
+</html>
+
 
