@@ -1,18 +1,11 @@
 
-
-
-<div align="center" style="max-width:700px;margin:auto;">
-<!-- (Your current README content goes here) -->
-</div>
-
-
 <p align="center">
   <img src="IMG_47EC5B2ED5D7-1.jpg" alt="Aiyana Wright headshot" width="160" style="border-radius:50%">
 </p>
 
 <h1 align="center">Aiyana Wright</h1>
 <p align="center">
-  <em> •Data Science • Business Intelligence • Visual Storytelling</em><br>
+  <em>Data Science • Business Intelligence • Visual Storytelling</em><br>
   <strong>Howard University M.S. Data Science Student</strong>
 </p>
 
@@ -22,11 +15,9 @@
 
 Hi! I'm **Aiyana Wright**, a data-driven project manager and applied data science graduate student passionate about transforming analytics into action. 
 
+I currently manage projects for **Clemson University’s Advancement Division**, where I implement tools like **Wrike**, **Smartsheet**, and **Adobe Workfront** to streamline operations and measure impact.
 
-Currently, I manage projects for **Clemson University’s Advancement Division**, where I implement tools like **Wrike**, **Smartsheet**, and **Adobe Workfront** to streamline operations and measure impact.  
-
-
-I specialize in connecting **quantitative analysis** with **strategic storytelling**;from modeling healthcare inequities to visualizing philanthropic outcomes—bridging data, design, and decision-making.
+My work blends **quantitative analysis** with **strategic storytelling**—from modeling healthcare inequities to visualizing philanthropic outcomes.
 
 ---
 
@@ -35,55 +26,43 @@ I specialize in connecting **quantitative analysis** with **strategic storytelli
 ### 🩺 Healthcare Cost Burden Analysis (2025)
 An analysis exploring the impact of out-of-pocket and surprise medical expenses on financial stress among U.S. individuals using **NHIS 2023** data.
 
-[📄 View Analysis on GitHub](https://github.com/aiyanaw1/aiyanaw1.github.io/blob/892534b9c4d79c9f398a0078a7bc0173df799aec/Final.md)
+👉 [View Full Analysis](Final.md)
 
 ---
 
 ### 📊 Machine Learning: Medical Cost Analysis — Risk Profiles (2025)
-Identifies which factors most significantly influence out-of-pocket medical expenses among individuals utilizing the **SHED 2023** dataset.
+Identifies the factors that most significantly influence out-of-pocket medical expenses using the **SHED 2023** dataset.
 
-[📄 View Analysis on GitHub](https://github.com/aiyanaw1/aiyanaw1.github.io/blob/ed0c050c7a515f8684b1f954ff37d5a80cae46d1/Medical_Cost_Analysis.md)
+👉 [View Full Analysis](Medical_Cost_Analysis.md)
 
 ---
 
 ### 💻 Endowment Disparities & HBCU Case Study (2025)
-Data-driven exploration commissioned by ACLS examining the financial inequities and revenue shares between HBCUs and selected PWIs.
+Data-driven exploration commissioned by ACLS examining endowment inequities between HBCUs and selected PWIs.
 
-[📊 Tableau Dashboard (coming soon)](https://public.tableau.com/app/profile/aiyana.wright3986)
+👉 [Tableau Dashboard](https://public.tableau.com/app/profile/aiyana.wright3986)
+
+## 📊 Machine Learning: Capstone Health Insurance Prediction Model (2025) 
+PCA based risk scoring and machine-learning predictions for U.S Adults 
+👉 [Tableau Dashboard (https://public.tableau.com/shared/RMN6CKQKX?:display_count=n&:origin=viz_share_link)
 
 ---
+
 ## 📬 Contact
 
-📧 [yanadwrigt@gmail.com](mailto:yanadwrigt@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/aiyanawright/)  
-📄 [View My CV](https://github.com/aiyanaw1/aiyanaw1.github.io/blob/131c07e82c873b6c3a4b1e4ed6fa674580b91ca7/ADW%20RESUME.pdf)
+📧 Email: [yanadwrigt@gmail.com](mailto:yanadwrigt@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/aiyanawright](https://www.linkedin.com/in/aiyanawright/)  
+📄 **[View My CV](ADW%20RESUME.pdf)**  
 
-<a href="ADW RESUME.pdf" download 
-   style="background-color:#4B0082; 
-          padding:10px 18px; 
-          color:white; 
-          border-radius:6px; 
-          text-decoration:none;">
+<br>
+
+<a href="ADW%20RESUME.pdf" download
+   style="background:#4B0082; padding:12px 24px; 
+          color:white; border-radius:6px; text-decoration:none;">
   Download My Resume (PDF)
 </a>
 
----
 
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Aiyana Wright</title>
-</head>
-<body style="font-family:Arial; max-width:800px; margin:auto; padding:40px;">
-  <h1>Welcome to My Portfolio</h1>
-  <p>You can download my resume below:</p>
-
-  <a href="ADW RESUME.pdf" download
-     style="background:#4B0082; padding:12px 24px; color:white;
-            border-radius:6px; text-decoration:none;">
-    Download Resume (PDF)
-  </a>
-</body>
 </html>
 
 
