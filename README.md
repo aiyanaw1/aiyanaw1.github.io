@@ -47,8 +47,7 @@ Data-driven exploration commissioned by ACLS examining endowment inequities betw
 PCA based risk scoring and machine-learning predictions for U.S Adults. 
 
 👉 ## View My StoryMap  
-🔗 [(https://experience.arcgis.com/experience/0b4bf979ad054815b874233c89603d05)]
-
+🔗 [((https://experience.arcgis.com/experience/0b4bf979ad054815b874233c89603d05))]
 
 ---
 
