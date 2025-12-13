@@ -46,8 +46,18 @@ Data-driven exploration commissioned by ACLS examining endowment inequities betw
 ## 📊 Machine Learning: Capstone Health Insurance Prediction Model (2025) 
 PCA based risk scoring and machine-learning predictions for U.S Adults. 
 
-👉 ## View My StoryMap  
-🔗 [((https://experience.arcgis.com/experience/0b4bf979ad054815b874233c89603d05))]
+👉 ## View My StoryMap 
+<div style="max-width:1200px; margin:auto;">
+  <iframe 
+    src="https://experience.arcgis.com/experience/dd15f8111c814d9684debfa5bd933e42"
+    width="100%"
+    height="900"
+    style="border:none;"
+    loading="lazy"
+    allowfullscreen>
+  </iframe>
+</div>
+
 
 ---
 
