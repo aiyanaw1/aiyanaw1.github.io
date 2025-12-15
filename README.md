@@ -45,7 +45,7 @@ Data-driven exploration commissioned by ACLS examining endowment inequities betw
 ---
 ## 📊 Machine Learning: Capstone Health Insurance Prediction Model (2025) 
 PCA based risk scoring and machine-learning predictions for U.S Adults. 
-👉 [View Full Analysis](https://github.com/aiyanaw1/aiyanaw1.github.io/blob/f28e06e62abe48adfcf89776a32b8f2e7518861b/Capstone%20Pt.1.ipynbLinks to an external site.)
+👉 [View Full Analysis](https://github.com/aiyanaw1/aiyanaw1.github.io/blob/f28e06e62abe48adfcf89776a32b8f2e7518861b/Capstone%20Pt.1.ipynb)
 
 ---
 
@@ -60,7 +60,5 @@ PCA based risk scoring and machine-learning predictions for U.S Adults.
           color:white; border-radius:6px; text-decoration:none;">
   Download My Resume (PDF)
 </a>
-
-</html>
 
 
