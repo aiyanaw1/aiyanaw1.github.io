@@ -45,22 +45,7 @@ Data-driven exploration commissioned by ACLS examining endowment inequities betw
 ---
 ## 📊 Machine Learning: Capstone Health Insurance Prediction Model (2025) 
 PCA based risk scoring and machine-learning predictions for U.S Adults. 
-
-<h2>Interactive Policy Story</h2>
-<p>
-This ArcGIS StoryMap integrates exploratory analysis, spatial context, and
-model insights to communicate disparities in health insurance coverage.
-</p>
-
-<iframe ... ></iframe>
-
-<p style="font-size:0.9em; text-align:center;">
-Prefer full-screen? 
-<a href="https://storymaps.arcgis.com/stories/xxxxxxxxxxxxxxxx" target="_blank">
-Open StoryMap in a new tab
-</a>
-</p>
-
+👉 [View Full Analysis](https://github.com/aiyanaw1/aiyanaw1.github.io/blob/f28e06e62abe48adfcf89776a32b8f2e7518861b/Capstone%20Pt.1.ipynbLinks to an external site.)
 
 ---
 
@@ -70,7 +55,7 @@ Open StoryMap in a new tab
 🔗 LinkedIn: [linkedin.com/in/aiyanawright](https://www.linkedin.com/in/aiyanawright/)  
 <br>
 
-<a href="ADW%20RESUME.pdf" download
+<a href="ADW RESUME_DEC25.pdf" download
    style="background:#4B0082; padding:12px 24px; 
           color:white; border-radius:6px; text-decoration:none;">
   Download My Resume (PDF)
